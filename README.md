@@ -1,6 +1,7 @@
 # Takılın kafanıza göre
 
-###### Spotify Amcaya para vermeden arkadaşlarınla şarkı dinleyebileceğin bir plugin.</b><br>
+
+Spotify Amcaya para vermeden arkadaşlarınla şarkı dinleyebileceğin bir plugin.</b><br>
 
 <h1 align="center">Discord İletişim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
